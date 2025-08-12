@@ -24,5 +24,5 @@ I'm currently completing my BS in Computer Science and transitioning into cybers
 ---
 
 ## 📫 Contact
-- **LinkedIn**: [[](https://www.linkedin.com/in/jania-johnson-b82aa0206/)]
+- **LinkedIn**: [(https://www.linkedin.com/in/jania-johnson-b82aa0206/)]
 - **Email**: janiajohnson90@gmail.com
