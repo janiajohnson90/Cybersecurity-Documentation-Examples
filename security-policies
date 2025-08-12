@@ -1,1 +1,24 @@
+# Incident Response Policy
 
+**Purpose:**  
+This policy outlines the process for identifying, managing, and resolving cybersecurity incidents within Acme Solutions.
+
+**Scope:**  
+Applies to all employees, contractors, and systems within the organization.
+
+## 1. Incident Classification
+- **Low:** Minor security events with no business impact
+- **Medium:** Events requiring IT investigation but no major data loss
+- **High:** Events causing significant disruption, data compromise, or regulatory concern
+
+## 2. Response Steps
+1. **Identification** – Detect and confirm incident
+2. **Containment** – Limit damage
+3. **Eradication** – Remove threat
+4. **Recovery** – Restore systems
+5. **Post-Incident Review** – Document lessons learned
+
+## 3. Roles & Responsibilities
+- **Incident Response Team Lead:** Oversees the process
+- **IT Staff:** Executes technical remediation
+- **Management:** Approves escalation
