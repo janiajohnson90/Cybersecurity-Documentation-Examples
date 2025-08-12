@@ -8,6 +8,8 @@ I'm currently completing my BS in Computer Science and transitioning into cybers
 ---
 
 ## 📂 Contents
+
+(All of these are created for the fictional company, Acme Solutions)
 - [Security Policies](./security-policies) (coming soon)
 - [Incident Reports](./incident-reports) (coming soon)
 - [Network & System Hardening Guides](./hardening-guides) (coming soon)
